@@ -1,4 +1,4 @@
-# cp-6bm1-equipoNN
+# cp-6bm1-equipo 3
 
 ## Integrantes
 | Nombre | Boleta | GitHub |
