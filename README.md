@@ -14,5 +14,6 @@
 **Cómo compilar y ejecutar TODO con dos comandos:**
 
 ```bash
+gh repo clone Oscar05cap/Proyecto_ComputoParalelo
 cd practicas/practica1
 bash scripts/run_all.sh && python3 scripts/plot.py
