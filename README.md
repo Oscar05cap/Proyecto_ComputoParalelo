@@ -1,11 +1,11 @@
 # cp-6bm1-equipo 3
 
 ## Integrantes
-| Nombre | Boleta | GitHub |
-|---|---|---|
-|Angeles San Martín Oscar Daniel | 2024630876 |O5car0ckap |
-|Salas Juárez Einnar Zein |2024630912 |einnarzein |
-|Leyva López Daniel | | |
+| Nombre                          | Boleta     | GitHub     |
+| ------------------------------- | ---------- | ---------- |
+| Angeles San Martín Oscar Daniel | 2024630876 | O5car0ckap |
+| Salas Juárez Einnar Zein        | 2024630912 | einnarzein |
+| Leyva López Daniel              | 2024630487 | dany_leyva |
 
 ## Prácticas
 
